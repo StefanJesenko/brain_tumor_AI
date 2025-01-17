@@ -62,6 +62,7 @@ In unserem Projekt werden wir ein CNN(Convolusional Neural Network) erstellen, d
 | 2.A |21.02.2025|Stefan Jesenko & Julius Burlet|Model wird auf Meningiomatumore trainiert.|180min|
 | 3.A |21.02.2025|Stefan Jesenko & Julius Burlet|Model wird auf Normalegehirntumore trainert.|120min|
 | 4.A |28.02.2025|Stefan Jesenko & Julius Burlet|Model wird auf Hypothysentumore trainert.|180min|
+
 Total: 1260min
 
 
