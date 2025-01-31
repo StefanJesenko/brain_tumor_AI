@@ -56,7 +56,7 @@ In unserem Projekt werden wir ein CNN(Convolusional Neural Network) erstellen, d
 | 5.A  |17.01.2025|Stefan Jesenko|JPGs der Tumore werden in CSVs konvertiert|120min|
 | 6.A |24.01.2025|Julius Burlet|Activation Funktionen werden definiert|60min|
 | 6.B |24.01.2025|Stefan Jesenko|Anzahl Layers wird definiert.|120min|
-| 6.C |31.01.2025|Julius Burlet|Anzahl Neuronen pro Layer wird definiert.|120min|
+| 6.C |31.01.2025|Julius Burlet|Forward Propogation Funktion wird erstellt.|120min|
 | 7.A |31.01.2025|Stefan Jesenko|Back Propogation Funktion wird definiert|180min|
 | 1.A |31.01.2025|Stefan Jesenko & Julius Burlet|Model wird auf Gliomatumore trainiert.|180min|
 | 2.A |21.02.2025|Stefan Jesenko & Julius Burlet|Model wird auf Meningiomatumore trainiert.|180min|
