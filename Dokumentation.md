@@ -39,7 +39,7 @@ In unserem Projekt werden wir ein CNN(Convolusional Neural Network) erstellen, d
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |Projekt wurde gestartet und Model wurde trainiert.|MRT Scan eines Glioma Gehirntumors|Gliomatumor|
 | 2.1  |Projekt wurde gestartet und Model wurde trainiert.|MRT Scan eines Meningioma Gehirntumors|Meningiomatumor|
-| 3.1  |Projekt wurde gestartet und Model wurde trainiert.|MRT Scan eines Normalen Gehirntumors|Normaler Gehirntumor|
+| 3.1  |Projekt wurde gestartet und Model wurde trainiert.|MRT Scan eines Normalen Gehirns|Normales Gehirn|
 | 4.1  |Projekt wurde gestartet und Model wurde trainiert.|MRT Scan eines Hypophysengehirntumors|Hypophysentumor|
 | 5.1  |Projekt wurde gestartet.|JPG eines MRT Scans.|CSV Datei des JPGs|
 | 6.1  |Projekt wurde gestartet.|CSV eines Gliomatumors wird der Forward Propogation Funktion als Input gegeben.| 0 (Laybel des Gliomatumors)|
