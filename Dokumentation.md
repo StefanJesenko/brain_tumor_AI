@@ -63,7 +63,7 @@ In unserem Projekt werden wir ein NN (Neural Network) erstellen, dass anhand ein
 | 7.A |31.01.2025|Stefan Jesenko|Back Propogation Funktion wird definiert|180min|
 | 1.A |31.01.2025|Stefan Jesenko & Julius Burlet|Model wird auf Gliomatumore trainiert.|180min|
 | 2.A |21.02.2025|Stefan Jesenko & Julius Burlet|Model wird auf Meningiomatumore trainiert.|180min|
-| 3.A |21.02.2025|Stefan Jesenko & Julius Burlet|Model wird auf Normalegehirntumore trainert.|120min|
+| 3.A |21.02.2025|Stefan Jesenko & Julius Burlet|Model wird auf normale Gehirne trainert.|120min|
 | 4.A |28.02.2025|Stefan Jesenko & Julius Burlet|Model wird auf Hypothysentumore trainert.|180min|
 
 Total: 1260min
@@ -72,16 +72,23 @@ Total: 1260min
 
 ## 3 Entscheiden
 
-Wir haben uns dafür entschieden, unser Projekt nach den zuvor gnannten Arbeitspaketen durchzuführen.
+Wir haben uns dafür entschieden, unser Projekt nach den zuvor genannten Arbeitspaketen durchzuführen.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 5.A  |17.01.2025|Stefan Jesenko|120min|240min|
+| 6.A  |24.01.2025|Julius Burlet|60min|90min|
+| 6.B  |24.01.2025|Stefan Jesenko|120min|180min|
+| 6.C  |31.01.2025|Julius Burlet|120min|110min|
+| 7.A  |31.01.2025|Stefan Jesenko|180min|200min|
+| 1.A  |31.01.2025|Stefan Jesenko & Julius Burlet|180min|230min|
+| 2.A  |21.02.2025|Stefan Jesenko & Julius Burlet|180min|200min|
+| 3.A  |21.02.2025|Stefan Jesenko & Julius Burlet|120min|180min|
+| 4.A  |28.02.2025|Stefan Jesenko & Julius Burlet|180min|180min|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
