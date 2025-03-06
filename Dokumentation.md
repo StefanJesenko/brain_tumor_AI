@@ -7,14 +7,17 @@ Julius Burlet, Stefan Jesenko
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |10.01.2025| 0.0.1 |Heute haben wir uns dafür entschieden was wir für ein Projekt machen und den Projektantrag abgegeben.|
-|       | ...     ||
-|       | 1.0.0   ||
+|17.01.2025| 0.1.3|Heute haben wir das Konvertieren der JPG Bilder in CSV Dateien die zum trainieren des Models benutzt werden können implementiert.|
+|24.01.2025| 0.5.0|Heute haben wir Activation Functions zu unserem Projekt hinzugefügt und definiert mit wie vielen Layern das Model trainiert werden soll.|
+|31.01.2025| 0.7.1|Heute haben wir die Forward und die Backward propogation Funktion definiert und mit dem trainieren begonnen. Das Model hatte noch nicht die gewünschte Treffsicherheit, dies hoffen wir beim nächsten mal zu verbessen.|
+|21.02.2025| 0.10.0|Heute haben wir unser Model weiter trainiert, es hat jetzt eine erhoffte Treffsicherheit von über 90%|
+|28.02.2025| 1.0.0| Heute haben wir das Model fertiggsetellt und eine Funktion hinzugefügt die das Model speichert, um es später erneut abzurufen.|
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-In unserem Projekt werden wir ein CNN(Convolusional Neural Network) erstellen, dass anhand eines MRT Scanns klassifizieren kann welche Art von Gehirntumor auf dem Bild zu sehen ist.
+In unserem Projekt werden wir ein NN (Neural Network) erstellen, dass anhand eines MRT Scanns klassifizieren kann welche Art von Gehirntumor auf dem Bild zu sehen ist.
 
 ### 1.2 User Stories
 
@@ -22,7 +25,7 @@ In unserem Projekt werden wir ein CNN(Convolusional Neural Network) erstellen, d
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |Funktional|Muss|Als Benutzer möchte ich, dass das Model anhand eines Bildes erkennen kann, ob es ein Gliomagehirntumor ist.|
 | 2    |Funktional|Muss|Als Benutzer möchte ich, dass das Model anhand eines Bildes erkennen kann, ob es ein Meningiomagehirntumor ist.|
-| 3    |Funktional|Muss|Als Benutzer möchte ich, dass das Model anhand eines Bildes erkennen kann, ob es ein Normalergehirntumor ist.|
+| 3    |Funktional|Muss|Als Benutzer möchte ich, dass das Model anhand eines Bildes erkennen kann, ob es ein normales Gehirn ist.|
 | 4    |Funktional|Muss|Als Benutzer möchte ich, dass das Model anhand eines Bildes erkennen kann, ob es ein Hypophysengehirntumor ist.|
 | 5    |Funktional|Muss|Die Daten sollen vor dem Trainieren normalisiert werden, damit das Model korrekt lernen kann.|
 | 6    |Funktional|Muss|Eine Forward Propogation Funktion soll implementiert werden, damit anhand von Gewichten und errechnet werden kann welche Art von Tumor es ist.|
