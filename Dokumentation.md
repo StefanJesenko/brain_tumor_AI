@@ -94,8 +94,14 @@ Wir haben uns dafür entschieden, unser Projekt nach den zuvor genannten Arbeits
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |06.03.2025|OK|Stefan Jesenko|
+| 2.1  |06.03.2025|OK|Stefan Jesenko|
+| 3.1  |06.03.2025|OK|Stefan Jesenko|
+| 4.1  |06.03.2025|OK|Stefan Jesenko|
+| 5.1  |06.03.2025|OK|Stefan Jesenko|
+| 6.1  |06.03.2025|OK|Stefan Jesenko|
+| 7.1  |06.03.2025|OK|Stefan Jesenko|
+| 8.1  |06.03.2025|OK|Stefan Jesenko|
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
