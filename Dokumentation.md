@@ -103,7 +103,7 @@ Wir haben uns dafür entschieden, unser Projekt nach den zuvor genannten Arbeits
 | 7.1  |06.03.2025|OK|Stefan Jesenko|
 | 8.1  |06.03.2025|OK|Stefan Jesenko|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
 
 ## 6 Auswerten
 
