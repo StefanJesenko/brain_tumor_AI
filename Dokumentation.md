@@ -68,6 +68,8 @@ In unserem Projekt werden wir ein NN (Neural Network) erstellen, dass anhand ein
 
 Total: 1260min
 
+Die Zusätzliche Zeit ist als Puffer eingeplant.
+
 
 
 ## 3 Entscheiden
@@ -88,7 +90,7 @@ Wir haben uns dafür entschieden, unser Projekt nach den zuvor genannten Arbeits
 | 3.A  |21.02.2025|Stefan Jesenko & Julius Burlet|120min|180min|
 | 4.A  |28.02.2025|Stefan Jesenko & Julius Burlet|180min|180min|
 
-
+Tatsächliche Zeit Total: 1610min
 
 ## 5 Kontrollieren
 
