@@ -110,4 +110,5 @@ Tatsächliche Zeit Total: 1610min
 ## 6 Auswerten
 
 Portfolio Stefan Jesenko: https://portfolio.bbbaden.ch/view/view.php?t=1b683c38d5d308518109
+
 Portfolio Julius V. Burlet: https://portfolio.bbbaden.ch/view/view.php?t=2798adc1c60c36435e66
