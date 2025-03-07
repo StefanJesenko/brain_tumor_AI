@@ -109,5 +109,5 @@ Tatsächliche Zeit Total: 1610min
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Portfolio Stefan Jesenko: https://portfolio.bbbaden.ch/view/view.php?t=1b683c38d5d308518109
 
